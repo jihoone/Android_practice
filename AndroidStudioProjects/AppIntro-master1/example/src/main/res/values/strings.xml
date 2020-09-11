@@ -1,0 +1,24 @@
+<resources>
+    <!-- Main Strings -->
+    <string name="app_name">Travel_App</string>
+    <string name="appintro_logo">appintro_logo</string>
+    <string name="start">Start</string>
+    <string name="welcome_body">우리들의 여행 어플 시작</string>
+
+    <!-- Titles -->
+    <string name="default_intro_title">Travel_App</string>
+
+    <!-- 1st Tab Group -->
+    <string name="default_intro">나만의 여행을 만들어보세요.</string>
+
+    <!-- 2nd Tab Group -->
+    <string name="perms_intro1">This demonstrates the ability to request runtime permission on any desired slide.</string>
+    <string name="perms_intro2">This demonstrates the ability to request permission on any slide specified using the second slide layout.</string>
+
+    <!-- SlidePolicy Example -->
+    <string name="please_select_the_checkbox_before_proceeding">Please select the Checkbox before proceeding</string>
+    <string name="slidepolicy_example_heading">SlidePolicy Example</string>
+    <string name="slidepolicy_example_description">This slide won\'t allow the user to proceed till you click the following checkbox</string>
+    <string name="please_check_to_continue">Please check to continue</string>
+
+</resources>
